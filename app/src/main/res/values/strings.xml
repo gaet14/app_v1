@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">app_v1</string>
+    <string name="subscribe">subscribe</string>
+    <string name="no_location_permission">Nous avons besoin de la permission pour la localisation</string>
+    <string name="list">Ceci est du texte</string>
+    <string name="command">Commander via internet</string>
+    <string name="scanPeri">Scanner les périphériques</string>
+    <string name="scanButt">Lancer le scan</string>
+    <string name="toggleLedButt">Toggle LED</string>
+    <string name="connexion">Tentative de connexion à %1$s</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="scan_ended">scan terminé</string>
+    <string name="connecte">connecté à %1$s</string>
+    <string name="not_connected">Pas connecté</string>
+    <string name="uuid_not_found">identifiant unique non trouvé</string>
+    <string name="not_compatible">BLE du téléphone pas compatible</string>
+    <string name="enable_ble_notifications">Activation des notifications</string>
+    <string name="permission_pos_refuse">Permission à la position refusée</string>
+</resources>
